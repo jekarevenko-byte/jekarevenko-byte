@@ -26,3 +26,4 @@ Python · pytest · requests · Playwright · Allure · SQL (SQLite) · Postman 
 ## Контакты
 
 - Email: jekarevenko@gmail.com
+- Тelegram: @Evgn787
